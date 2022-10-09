@@ -98,7 +98,7 @@ Meet Liz!<br>
 The virtual Crowd Tester Assistant..<br>
 Ready to assist you raise your defects 24/7.<br>
 Just follow the instructions. <br>
-As She takes through the paces.<br><br>
+As she takes through the process.<br><br>
 
   </div>
     <div class="image"></div>
